@@ -15,6 +15,8 @@ This plugin use BasketJs to cache all your javascript file to browser's localsto
 
 Your can readmore about BasketJs at here : (BasketJs)[http://addyosmani.github.io/basket.js/]
 
+For developer, you can contribute to this plugin by fork and make pr on github : (BasketJs on github)[https://github.com/nguyenvanduocit/wp-basketjs]
+
 == Changelog ==
 
 = 1.0.0 =
