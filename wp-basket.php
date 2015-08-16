@@ -1,5 +1,4 @@
 <?php
-
 /*
 Plugin Name: Wp Basket
 Plugin URI: http://nvduoc.senviet.org/wp_basket
