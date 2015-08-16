@@ -13,7 +13,7 @@ This plugin use BasketJs to cache all your javascript file to browser's localsto
 
 Your can readmore about BasketJs at here : (BasketJs)[http://addyosmani.github.io/basket.js/]
 
-== Changelog ==
+# Changelog
 
-= 1.0.0 =
+## 1.0.0
 * init the first version
