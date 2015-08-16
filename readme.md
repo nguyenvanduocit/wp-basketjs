@@ -1,4 +1,4 @@
-=== WP BasketJs ===
+# WP BasketJs
 Contributors: nguyenvanduocit
 Donate link: http://laptrinh.senviet.orj
 Tags: script, cache
@@ -7,9 +7,7 @@ Tested up to: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin use BasketJs to cache all your javascript file to browser's localstorage for fastest cache.
-
-== Description ==
+# Description
 
 This plugin use BasketJs to cache all your javascript file to browser's localstorage for fastest cache.
 
